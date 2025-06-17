@@ -1,0 +1,6 @@
+[92mwww.flipkart.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92msdns14.ultradns.biz[0m[94m (FQDN)[0m
+[92mwww.flipkart.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92msdns14.ultradns.net[0m[94m (FQDN)[0m
+[92mwww.flipkart.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92msdns14.ultradns.org[0m[94m (FQDN)[0m
+[92mwww.flipkart.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92msdns14.ultradns.com[0m[94m (FQDN)[0m
+[92mwww.flipkart.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92meu-smtp-inbound-2.mimecast.com[0m[94m (FQDN)[0m
+[92mwww.flipkart.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92meu-smtp-inbound-1.mimecast.com[0m[94m (FQDN)[0m

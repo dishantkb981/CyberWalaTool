@@ -1,0 +1,1 @@
+# Nmap 7.95 scan initiated Tue Jun 17 13:28:03 2025 as: /usr/lib/nmap/nmap -sV -sC -p- --max-retries 2 --min-rate 1000 -oN nmap_scan.txt www.rockstargames.com
